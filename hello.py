@@ -1,4 +1,6 @@
-a=input("Enter your name = ")
-b=input("Enter your father name =")
+a=input("Enter your First name = ")
+b=input("Enter your Father name =")
+c=input("Enter your Surname = ")
 print("Your name is = ",a)
 print("YOur father name is = ",b)
+print("Your Surname is = ",c)
